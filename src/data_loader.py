@@ -13,10 +13,17 @@ def list_skill_names_for_rarity(data_obj: Dict[str, Any], rarity_key: str) -> Li
     return [s.get("skill_name") for s in data_obj["skills_data"].get(str(rarity_key), [])]
 
 
+def get_skills_for_rarity(data_obj: Dict[str, Any], rarity_key: str) -> List[Dict[str, Any]]:
+    """Gets the full list of skill objects (including name and level) for a rarity."""
+    if not data_obj or "skills_data" not in data_obj:
+        return []
+    return data_obj["skills_data"].get(str(rarity_key), [])
+
+
 def lookup_level(data_obj: Dict[str, Any], rarity_number: Any, skill_name: str) -> int:
     if rarity_number is None:
         return 0
-    arr = [s for s in data_obj["skills_data"].get(str(rarity_number), []) if s.get("skill_name") == skill_name]
+    arr = [s for s in get_skills_for_rarity(data_obj, str(rarity_number)) if s.get("skill_name") == skill_name]
     if not arr:
         return 0
     return max(int(s.get("skill_level", 0)) for s in arr)
