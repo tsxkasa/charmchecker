@@ -1,0 +1,1855 @@
+{
+  "rarity": {
+    "5": [
+      {
+        "combination": [
+          1,
+          6,
+          6
+        ],
+        "slots_info": [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            0
+          ]
+        ]
+      },
+      {
+        "combination": [
+          1,
+          7,
+          null
+        ],
+        "slots_info": [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            0
+          ]
+        ]
+      },
+      {
+        "combination": [
+          1,
+          8,
+          6
+        ],
+        "slots_info": [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            0
+          ]
+        ]
+      },
+      {
+        "combination": [
+          1,
+          8,
+          8
+        ],
+        "slots_info": [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            0
+          ]
+        ]
+      },
+      {
+        "combination": [
+          1,
+          9,
+          null
+        ],
+        "slots_info": [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            0
+          ]
+        ]
+      },
+      {
+        "combination": [
+          1,
+          10,
+          null
+        ],
+        "slots_info": [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            0
+          ]
+        ]
+      }
+    ],
+    "6": [
+      {
+        "combination": [
+          1,
+          1,
+          7
+        ],
+        "slots_info": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      },
+      {
+        "combination": [
+          1,
+          1,
+          10
+        ],
+        "slots_info": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      },
+      {
+        "combination": [
+          2,
+          6,
+          6
+        ],
+        "slots_info": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      },
+      {
+        "combination": [
+          2,
+          8,
+          6
+        ],
+        "slots_info": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      },
+      {
+        "combination": [
+          2,
+          8,
+          8
+        ],
+        "slots_info": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      },
+      {
+        "combination": [
+          2,
+          9,
+          null
+        ],
+        "slots_info": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      },
+      {
+        "combination": [
+          2,
+          10,
+          null
+        ],
+        "slots_info": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      }
+    ],
+    "7": [
+      {
+        "combination": [
+          2,
+          1,
+          7
+        ],
+        "slots_info": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ]
+        ]
+      },
+      {
+        "combination": [
+          2,
+          1,
+          8
+        ],
+        "slots_info": [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ]
+        ]
+      },
+      {
+        "combination": [
+          2,
+          1,
+          10
+        ],
+        "slots_info": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ]
+        ]
+      },
+      {
+        "combination": [
+          3,
+          6,
+          5
+        ],
+        "slots_info": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ]
+        ]
+      },
+      {
+        "combination": [
+          3,
+          7,
+          null
+        ],
+        "slots_info": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ]
+        ]
+      },
+      {
+        "combination": [
+          3,
+          8,
+          5
+        ],
+        "slots_info": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ]
+        ]
+      },
+      {
+        "combination": [
+          3,
+          10,
+          null
+        ],
+        "slots_info": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ]
+        ]
+      },
+      {
+        "combination": [
+          4,
+          1,
+          1
+        ],
+        "slots_info": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ]
+        ]
+      }
+    ],
+    "8": [
+      {
+        "combination": [
+          2,
+          1,
+          7
+        ],
+        "slots_info": [
+          [
+            "W1",
+            0
+          ],
+          [
+            "W1",
+            1
+          ],
+          [
+            "W1",
+            1,
+            1
+          ]
+        ]
+      },
+      {
+        "combination": [
+          2,
+          1,
+          8
+        ],
+        "slots_info": [
+          [
+            "W1",
+            0
+          ],
+          [
+            "W1",
+            1
+          ],
+          [
+            "W1",
+            1,
+            1
+          ]
+        ]
+      },
+      {
+        "combination": [
+          2,
+          1,
+          10
+        ],
+        "slots_info": [
+          [
+            "W1",
+            0
+          ],
+          [
+            "W1",
+            1
+          ],
+          [
+            "W1",
+            1,
+            1
+          ]
+        ]
+      },
+      {
+        "combination": [
+          3,
+          6,
+          5
+        ],
+        "slots_info": [
+          [
+            "W1",
+            0
+          ],
+          [
+            "W1",
+            1
+          ],
+          [
+            "W1",
+            1,
+            1
+          ]
+        ]
+      },
+      {
+        "combination": [
+          3,
+          7,
+          null
+        ],
+        "slots_info": [
+          [
+            "W1",
+            0
+          ],
+          [
+            "W1",
+            1
+          ],
+          [
+            "W1",
+            1,
+            1
+          ]
+        ]
+      },
+      {
+        "combination": [
+          3,
+          8,
+          5
+        ],
+        "slots_info": [
+          [
+            "W1",
+            0
+          ],
+          [
+            "W1",
+            1
+          ],
+          [
+            "W1",
+            1,
+            1
+          ]
+        ]
+      },
+      {
+        "combination": [
+          3,
+          10,
+          null
+        ],
+        "slots_info": [
+          [
+            "W1",
+            0
+          ],
+          [
+            "W1",
+            1
+          ],
+          [
+            "W1",
+            1,
+            1
+          ]
+        ]
+      },
+      {
+        "combination": [
+          4,
+          1,
+          1
+        ],
+        "slots_info": [
+          [
+            "W1",
+            0
+          ],
+          [
+            "W1",
+            1
+          ],
+          [
+            "W1",
+            1,
+            1
+          ]
+        ]
+      }
+    ]
+  },
+  "skills_data": {
+    "5": [
+      {
+        "skill_name": "Adaptability",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Antivirus",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Aquatic/Oilsilt Mobility",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Bind Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Blast Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Bleeding Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Bombardier",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Botanist",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Constitution",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Defense Boost",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Divine Blessing",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Dragon Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Fire Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Flinch Free",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Free Meal",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Geologist",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Hunger Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Ice Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Intimidator",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Iron Skin",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Item Prolonger",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Marathon Runner",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Paralysis Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Poison Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Quick Sheathe",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Recovery Speed",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Recovery Up",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Sleep Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Speed Eating",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Stench Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Stun Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Survival Expert",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Thunder Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Tremor Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Water Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Wide-Range",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Windproof",
+        "skill_level": 1
+      }
+    ],
+    "6": [
+      {
+        "skill_name": "Adaptability",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Antivirus",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Aquatic/Oilsilt Mobility",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Bind Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Blast Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Bleeding Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Bombardier",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Botanist",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Constitution",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Defense Boost",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Divine Blessing",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Dragon Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Fire Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Flinch Free",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Free Meal",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Geologist",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Hunger Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Ice Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Intimidator",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Iron Skin",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Item Prolonger",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Marathon Runner",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Paralysis Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Poison Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Quick Sheathe",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Recovery Speed",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Recovery Up",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Sleep Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Speed Eating",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Stench Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Stun Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Survival Expert",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Thunder Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Tremor Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Water Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Wide-Range",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Windproof",
+        "skill_level": 2
+      }
+    ],
+    "10": [
+      {
+        "skill_name": "Adrenaline Rush",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Agitator",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Burst",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Convert Element",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Elemental Absorption",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Flayer",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Foray",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Latent Power",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Weakness Exploit",
+        "skill_level": 1
+      }
+    ],
+    "2": [
+      {
+        "skill_name": "Airborne",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Artillery",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Attack Boost",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Ballistics",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Blast Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Blast Functionality",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Bludgeoner",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Charge Master",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Charge Up",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Critical Draw",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Critical Element",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Critical Eye",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Critical Status",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Dragon Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Exhaust Functionality",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Fire Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Focus",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Guard",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Guard Up",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Handicraft",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Horn Maestro",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Ice Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Load Shells",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Mind's Eye",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Offensive Guard",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Opening Shot",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Paralysis Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Poison Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Poison Duration Up",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Poison Functionality",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Power Prolonger",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Protective Polish",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Punishing Draw",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Rapid Morph",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Razor Sharp",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Sleep Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Slugger",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Special Ammo Boost",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Speed Sharpening",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Stamina Thief",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Tetrad Shot",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Thunder Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Water Attack",
+        "skill_level": 2
+      }
+    ],
+    "8": [
+      {
+        "skill_name": "Ambush",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Blight Resistance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Coalescence",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Counterstrike",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Earplugs",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Evade Extender",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Evade Window",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Heroics",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Maximum Might",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Mushroomancer",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Partbreaker",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Peak Performance",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Resentment",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Stamina Surge",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Tool Specialist",
+        "skill_level": 2
+      }
+    ],
+    "9": [
+      {
+        "skill_name": "Ambush",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Blight Resistance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Coalescence",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Counterstrike",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Earplugs",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Evade Extender",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Evade Window",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Heroics",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Maximum Might",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Mushroomancer",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Partbreaker",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Peak Performance",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Resentment",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Stamina Surge",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Tool Specialist",
+        "skill_level": 3
+      }
+    ],
+    "7": [
+      {
+        "skill_name": "Antivirus",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Bind Resistance",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Blast Resistance",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Bleeding Resistance",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Bombardier",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Botanist",
+        "skill_level": 4
+      },
+      {
+        "skill_name": "Constitution",
+        "skill_level": 4
+      },
+      {
+        "skill_name": "Defense Boost",
+        "skill_level": 4
+      },
+      {
+        "skill_name": "Divine Blessing",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Dragon Resistance",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Fire Resistance",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Flinch Free",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Free Meal",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Geologist",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Hunger Resistance",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Ice Resistance",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Intimidator",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Iron Skin",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Item Prolonger",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Marathon Runner",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Paralysis Resistance",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Poison Resistance",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Quick Sheathe",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Recovery Speed",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Recovery Up",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Sleep Resistance",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Speed Eating",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Stun Resistance",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Survival Expert",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Thunder Resistance",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Tremor Resistance",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Water Resistance",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Wide-Range",
+        "skill_level": 4
+      },
+      {
+        "skill_name": "Windproof",
+        "skill_level": 3
+      }
+    ],
+    "1": [
+      {
+        "skill_name": "Artillery",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Attack Boost",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Ballistics",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Blast Attack",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Bludgeoner",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Charge Master",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Critical Draw",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Critical Element",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Critical Eye",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Critical Status",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Dragon Attack",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Fire Attack",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Focus",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Guard",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Guard Up",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Handicraft",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Horn Maestro",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Ice Attack",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Load Shells",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Mind's Eye",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Offensive Guard",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Opening Shot",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Paralysis Attack",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Poison Attack",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Power Prolonger",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Protective Polish",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Punishing Draw",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Rapid Morph",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Razor Sharp",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Sleep Attack",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Slugger",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Special Ammo Boost",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Speed Sharpening",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Stamina Thief",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Tetrad Shot",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Thunder Attack",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Water Attack",
+        "skill_level": 1
+      }
+    ],
+    "3": [
+      {
+        "skill_name": "Artillery",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Attack Boost",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Ballistics",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Blast Attack",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Bludgeoner",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Charge Master",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Critical Draw",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Critical Element",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Critical Eye",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Critical Status",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Dragon Attack",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Fire Attack",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Focus",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Guard",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Guard Up",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Handicraft",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Ice Attack",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Master's Touch",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Mind's Eye",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Normal Shots",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Offensive Guard",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Opening Shot",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Para Functionality",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Paralysis Attack",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Piercing Shots",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Poison Attack",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Power Prolonger",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Protective Polish",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Punishing Draw",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Rapid Fire Up",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Rapid Morph",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Razor Sharp",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Sleep Attack",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Sleep Functionality",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Slugger",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Spread/Power Shots",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Stamina Thief",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Tetrad Shot",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Thunder Attack",
+        "skill_level": 3
+      },
+      {
+        "skill_name": "Water Attack",
+        "skill_level": 3
+      }
+    ],
+    "4": [
+      {
+        "skill_name": "Attack Boost",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Ballistics",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Blast Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Critical Boost",
+        "skill_level": 1
+      },
+      {
+        "skill_name": "Critical Element",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Critical Eye",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Dragon Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Fire Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Guard",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Guard Up",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Handicraft",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Ice Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Opening Shot",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Paralysis Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Poison Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Protective Polish",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Razor Sharp",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Sleep Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Tetrad Shot",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Thunder Attack",
+        "skill_level": 2
+      },
+      {
+        "skill_name": "Water Attack",
+        "skill_level": 2
+      }
+    ]
+  }
+}
