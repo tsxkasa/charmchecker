@@ -14,7 +14,6 @@ def list_skill_names_for_rarity(data_obj: Dict[str, Any], rarity_key: str) -> Li
 
 
 def get_skills_for_rarity(data_obj: Dict[str, Any], rarity_key: str) -> List[Dict[str, Any]]:
-    """Gets the full list of skill objects (including name and level) for a rarity."""
     if not data_obj or "skills_data" not in data_obj:
         return []
     return data_obj["skills_data"].get(str(rarity_key), [])

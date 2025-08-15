@@ -11,7 +11,7 @@ from filters import (
     options_per_position,
     rarity_label_for_position,
     aggregated_results,
-    get_levels_for_skill_in_slot, # Import new function
+    get_levels_for_skill_in_slot,
 )
 
 class SlotRow(ttk.Frame):
@@ -213,7 +213,6 @@ class CharmCombo(tk.Tk):
         self.slot_rows[idx].set_skill_options(display_opts)
 
     def _update_level_options_for_slot(self, idx: int):
-        """Populates the level combobox for a given slot based on the selected skill."""
         row = self.slot_rows[idx]
         selected_skill = self.selected_skills_vars[idx].get()
         
